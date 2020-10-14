@@ -4,4 +4,4 @@ Here are some things about me:
 
 - 🏫 Currently in my second year of Software Engineering @ uOttawa
 - 💻 Learning to develop apps using Android Studio
-- 💬 Java and Python 3
+- 💬 Java, Python 3, HTML, CSS
