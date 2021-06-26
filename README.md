@@ -3,5 +3,5 @@
 Here are some things about me:
 
 - 🏫 Currently in my second year of Software Engineering @ uOttawa
-- 💻 Learning to new UI development skills such as Javascript, Bootstrap, Node and React
-- 💬 Java, Python 3, HTML, CSS
+- 💻 Learning to new UI / UX development skills such as Node, React and React Native
+- 💬 Java, Python, Elixir, HTML, CSS, Javascript, Bootstrap, JQuery
