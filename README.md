@@ -2,6 +2,6 @@
 
 Here are some things about me:
 
-- 🏫 Currently in my fifth year of Software Engineering @ uOttawa
-- 💬 Java, Python, Go, Elixir, HTML, CSS, Javascript, Bootstrap, JQuery, React, TypeScript, SpringBoot, Angular
-- 💻 Visual Studio Code, Sublime Text, Android Studio, IDLE, MacOS Terminal
+- 🏫 Graduated as a Software Engineer with a Management and Entrepreneurship Option @ uOttawa
+- 💻 Currently doing a Master of Computer Science, Concentration Applied Artificial Intelligence
+- 💬 Python, Java, Go, JavaScript, Elixir, HTML, CSS, Bootstrap, JQuery, React, TypeScript, SpringBoot, Angular, Kotlin
