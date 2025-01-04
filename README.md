@@ -9,7 +9,7 @@ I am a driven Software Engineer with a passion for Machine Learning. My backgrou
 - 🏫 Graduated with a **Bachelor of Applied Science in Software Engineering** with a Management and Entrepreneurship Option (Magna Cum Laude) @ the University of Ottawa
 - 🌎 Previous experiences: Nokia (R&D, Automation, QA) - GAC (Software Engineer) - RCMP (IT)
 
-#### Languages:
+#### Programming Languages:
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
