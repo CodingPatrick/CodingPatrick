@@ -1,4 +1,4 @@
-![](https://api.visitorbadge.io/api/VisitorHit?user=CodingPatrick&countColor=%#FFDBBB)
+![](https://api.visitorbadge.io/api/VisitorHit?user=CodingPatrick)
 
 ### System.out.println("Hello World! I'm Patrick 👋");
 
