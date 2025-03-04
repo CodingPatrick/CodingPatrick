@@ -1,5 +1,3 @@
-![](https://api.visitorbadge.io/api/VisitorHit?user=CodingPatrick)
-
 ### System.out.println("Hello World! I'm Patrick 👋");
 
 #### About me: 
