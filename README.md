@@ -1,13 +1,13 @@
 ### System.out.println("Hello World! I'm Patrick 👋");
 
-#### About me: 
-I am a driven Software Engineer with a passion for Machine Learning. My background consists of great technical expertise with hands-on experiences in R&D, test-driven development and AI-driven solutions. Through my Master of Computer Science, I am developing my knowledge in Machine Learning, Natural Language Processing, AI Ethics, Virtual Assistants, and Knowledge Representation. Building upon my academic foundation, a Bachelor of Applied Science in Software Engineering, Entrepreneurship and Management Option (Magna Cum Laude), I believe this equips me with a solid understanding of theoretical and practical aspects of the Software lifecycle.
+#### About: 
+A driven Software Engineer with a passion for Machine Learning, Automation and LLMs. Background consists of technical expertise with hands-on experiences in R&D, test-driven development and AI-driven solutions. Through a Master of Computer Science, I am developing my knowledge in Machine Learning, Natural Language Processing, AI Ethics, Virtual Assistants, and Knowledge Representation. Building upon my academic foundation, a Bachelor of Applied Science in Software Engineering, Entrepreneurship and Management Option (Magna Cum Laude), I believe this equips me with a solid understanding of theoretical and practical aspects of the Software lifecycle.
 
 #### Education:
 
-- 💻 Currently doing a **Master of Computer Science, Concentration Applied Artificial Intelligence** @ the University of Ottawa
-- 🏫 Graduated with a **Bachelor of Applied Science in Software Engineering** with a Management and Entrepreneurship Option (Magna Cum Laude) @ the University of Ottawa
-- 🌎 Previous experiences: Nokia (R&D, Automation, QA) - GAC (Software Engineer) - RCMP (IT)
+- 💻 **Master of Computer Science, Concentration Applied Artificial Intelligence** @ the University of Ottawa
+- 🏫 **Bachelor of Applied Science in Software Engineering** with a Management and Entrepreneurship Option (Magna Cum Laude) @ the University of Ottawa
+- 🌎 Previous experiences: Nokia (Incubation, R&D, Automation, QA) - GAC (Software Engineer) - RCMP (IT)
 
 #### Programming Languages:
 <p align="left"> 
