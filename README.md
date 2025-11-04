@@ -5,9 +5,9 @@ A driven Software Engineer with a passion for Machine Learning, Automation and L
 
 #### Education:
 
-- 💻 **Master of Computer Science, Concentration Applied Artificial Intelligence** @ uOttawa
-- 🏫 **Bachelor of Applied Science in Software Engineering**,Entrepreneurship and Management Option (Magna Cum Laude) @ uOttawa
-- 🌎 Work Experience: **Nokia** (Incubation, R&D, Automation, QA) - **GAC** (Software Engineer) - **RCMP** (IT)
+- 💻 Master of Computer Science, Concentration Applied Artificial Intelligence @ uOttawa
+- 🏫 Bachelor of Applied Science, Software Engineering (Magna Cum Laude) @ uOttawa
+- 🌎 Work Experience: Nokia (Incubation, R&D, Automation, QA) - GAC (Software Engineer) - RCMP (IT)
 
 #### Programming Languages:
 <p align="left"> 
