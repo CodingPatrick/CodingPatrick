@@ -8,7 +8,7 @@ A Software Engineer interested in agentic solutions, machine learning, LLMs, and
 
 - 💻 Master of Computer Science, Concentration Applied Artificial Intelligence @ uOttawa
 - 🏫 Bachelor of Applied Science, Software Engineering (Magna Cum Laude) @ uOttawa
-- 🌎 Work Experience: Nokia (Incubation, R&D, Automation, QA) - GAC (Software Engineer) - RCMP (IT)
+- 🌎 Work Experience: Nokia (AI, Incubation, R&D, Automation, QA) - GAC (Software Engineer) - RCMP (IT)
 
 ### Programming Languages:
 <p align="left"> 
