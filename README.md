@@ -12,4 +12,4 @@ A Software Engineer interested in agentic solutions, machine learning, LLMs, and
 ### Work Experience:
 
 - 👨‍💻 Current: AI Developer @ Nokia Incubation Team
-- 🌎 Ex Internships: Developer, Automation, Tester @ Nokia - Software Engineer @ GAC - IT Analyst @ RCMP
+- 🌎 Previous: Software Developer, Automation, Tester @ Nokia - Software Engineer @ GAC - IT Analyst @ RCMP
